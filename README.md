@@ -1,6 +1,10 @@
 # split-video
 Creates 1 minute segments from a video. Using ffmpeg
 
+
+https://github.com/sergidiazlopez/split-video/assets/55918159/16fb2a1b-9f38-4661-be08-777e173a52c6
+
+
 ## Installation
 1. Make sure Python is installed. Make sure to enable 'Add python.exe to path' in the installer.
 
